@@ -1,3 +1,9 @@
+<img width="1367" height="809" alt="nemoai" src="https://github.com/user-attachments/assets/362048e6-0bff-46f3-af4d-5af8d5cb654c" />
+
+# Demo Link
+
+https://devpost.com/software/polo-ai
+
 # Inspiration
 
 We wanted to solve the chaos of multitasking during online meetings. People constantly switch between tabs to verify facts, check data, or look up information while trying to stay engaged in discussions. That constant context-switching kills focus and efficiency. The idea for Nemo came from imagining a world where an AI could sit in the meeting as a helpful teammate, not just a note-taker after it ends.
